@@ -1,0 +1,1 @@
+This repository demonstrates a common Haskell error: using the `undefined` value.  The `bug.hs` file contains the erroneous code.  The solution, in `bugSolution.hs`, shows how to avoid this error by providing a concrete value or implementing the necessary function.
